@@ -4,6 +4,13 @@ This is my backup place for my currently used klipper config file.
 
 It is base on [MainsailOS](https://docs-os.mainsail.xyz/) and includes all of my custom files.
 
+* [Klipper Config Ref](https://www.klipper3d.org/Config_Reference.html)
+* [Klipper TMC](https://www.klipper3d.org/TMC_Drivers.html)
+* [Klipper GCodes](https://www.klipper3d.org/G-Codes.html)
+* [Moonraker (API) Config](https://moonraker.readthedocs.io/en/latest/configuration/)
+* [KlipperScreen (Touchscreen) Config](https://klipperscreen.readthedocs.io/en/latest/Configuration/)
+* [CrowsNest (CamProxy) Config](https://crowsnest.mainsail.xyz/configuration/sample-config)
+
 ## Install peripherals
 
 ### Enable direct serial via 3-wire
