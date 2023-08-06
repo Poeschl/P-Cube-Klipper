@@ -89,3 +89,13 @@ EOT
 
 * Calibrate with `DISPLAY=:0 xinput_calibrator`
 * Adjust `/usr/share/X11/xorg.conf.d/99-calibration.conf` with the new values of `Calibration` if the differ a lot
+
+
+## Customization
+
+### KlipperScreen
+
+To customize the KlipperScreen UI switch the files below with the red dice png
+
+* main.svg
+* klipper.svg
