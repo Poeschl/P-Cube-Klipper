@@ -10,6 +10,8 @@ It is base on [MainsailOS](https://docs-os.mainsail.xyz/) and includes all of my
 * [Moonraker (API) Config](https://moonraker.readthedocs.io/en/latest/configuration/)
 * [KlipperScreen (Touchscreen) Config](https://klipperscreen.readthedocs.io/en/latest/Configuration/)
 * [CrowsNest (CamProxy) Config](https://crowsnest.mainsail.xyz/configuration/sample-config)
+* [Spoolman](https://github.com/Donkie/Spoolman)
+* [Klipper Adaptive Meshing & Purging](https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging)
 
 ## Install peripherals
 
