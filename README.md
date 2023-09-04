@@ -12,6 +12,7 @@ It is base on [MainsailOS](https://docs-os.mainsail.xyz/) and includes all of my
 * [CrowsNest (CamProxy) Config](https://crowsnest.mainsail.xyz/configuration/sample-config)
 * [Spoolman](https://github.com/Donkie/Spoolman)
 * [Klipper Adaptive Meshing & Purging](https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging)
+* [Klipper LED effects](https://github.com/julianschill/klipper-led_effect)
 
 ## Install peripherals
 
